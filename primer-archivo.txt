@@ -2,4 +2,4 @@ Este es un archivo que hemos creado para el primer proyecto
 
 En el curso de GIT y GITHUB
 
-Creado por David Izquierdo Ponce.
+Creado por David Izquierdo Ponce. y tengo 37 años
