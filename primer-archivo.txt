@@ -5,3 +5,5 @@ En el curso de GIT y GITHUB
 Creado por David Izquierdo Ponce. y tengo 37 años
 
 En camara parece alto pero es un enano.
+
+Este es el archivo que guarda la historia de mi  proyecto
